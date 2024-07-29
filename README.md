@@ -18,6 +18,9 @@ The historical data visualization for Gold revealed a consistent upward trend wi
 
 The ARIMA model's predictions for Gold prices demonstrated reasonable accuracy for short-term forecasting. The future price predictions indicated possible upward and downward trends, which could help stakeholders make informed decisions. The Mean Squared Error (MSE) for the test set was within an acceptable range, validating the model's reliability.
 
+![github](https://github.com/pavelkimldn/commodities_analysis/blob/main/image2.png)
+![github](https://github.com/pavelkimldn/commodities_analysis/blob/main/image1.png)
+
 *Critical Evaluation:*
 
 One of the strengths of this project is the comprehensive approach to handling time series data, performing advanced data analysis, and applying predictive modeling techniques. The moving averages and ARIMA model provided actionable insights that could be directly applied to trading strategies. The visualizations effectively communicated complex data trends and predictions.
