@@ -40,10 +40,7 @@ Palladium and Nickel show wider distributions with higher peaks, indicating grea
 
 *Critical Evaluation:*
 
-One of the strengths of this project is the comprehensive approach to handling time series data, performing advanced data analysis, and applying predictive modeling techniques. The moving averages and ARIMA model provided actionable insights that could be directly applied to trading strategies. The visualizations effectively communicated complex data trends and predictions.
-
-However, there are limitations. The ARIMA model, while useful for short-term predictions, may not capture long-term market dynamics and external factors influencing commodity prices. The analysis was based solely on historical price data and did not consider macroeconomic indicators, geopolitical events, or market sentiment, which could impact accuracy.
-
+However, there are limitations. The ARIMA model, while useful for short-term predictions, may not capture long-term market dynamics and external factors influencing commodity prices. The analysis is based solely on historical price data and does not consider macroeconomic indicators, geopolitical events, or market sentiment, which could impact accuracy.
 *How to Run the Project:*
 To replicate this project, ensure that Python and the necessary libraries are installed. Download the commodity.csv dataset and place it in the same directory as the script. Running the script will perform the analysis and generate the visualizations.
 
